@@ -2,11 +2,12 @@
     {
         "id": "0",
         "name": "FV Chess Club",
-        "url": "/chess/"
-    },
-    {
-        "id": "0",
-        "name": "FV Chess Club",
-        "url": "/chess/"
+        "url": "/chess/",
+        "board": {
+            "president": ["Caleb Kwok", "Derrick Phu"],
+            "vice-president": ["Kevin Doan", "Andrew Tran"],
+            "publicist": "Marvin Le",
+            "advisor": "Ms. Bielefeld"
+        }
     }
 ]
