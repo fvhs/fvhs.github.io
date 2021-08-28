@@ -2,6 +2,7 @@
     {
         "id": "0",
         "name": "FV Chess Club",
+        "about": "The FV Chess Club is an equal access club dedicated to promoting the game at FVHS and helping to improve members' skill level and appreciation for the game. \n The club meets every Friday at 4:00 pm on our club Discord server. The link to that server can be found on our contact page.",
         "url": "/chess/",
         "constitution": "https://docs.google.com/document/d/1YdU0H7NO4_896veTGkcCczTRQUg2zSVSlDnASvYMxg8/edit?usp=sharing",
         "board": {
