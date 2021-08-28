@@ -6,6 +6,7 @@
         "board": {
             "president": ["Caleb Kwok", "Derrick Phu"],
             "vicePresident": ["Kevin Doan", "Andrew Tran"],
+            "treasurer": "Kevin Doan",
             "publicist": "Marvin Le",
             "advisor": "Ms. Bielefeld"
         }
