@@ -3,6 +3,7 @@
         "id": "0",
         "name": "FV Chess Club",
         "url": "/chess/",
+        "constitution": "https://docs.google.com/document/d/1YdU0H7NO4_896veTGkcCczTRQUg2zSVSlDnASvYMxg8/edit?usp=sharing",
         "board": {
             "president": ["Caleb Kwok", "Derrick Phu"],
             "vicePresident": ["Kevin Doan", "Andrew Tran"],
