@@ -13,10 +13,19 @@
             "publicist": ["Marvin Le"],
             "advisor": ["Ms. Bielefeld"]
         },
-        "contacts": {
-            "discord": "https://discord.com/invite/9Bx4XGNJ8V",
-            "instagram": "https://www.instagram.com/fvhschessclub/",
-            "email": "fvchessclub@gmail.com"
-        }
+        "contacts": [
+            {
+                "name": "Discord",
+                "content": "https://discord.com/invite/9Bx4XGNJ8V"
+            },
+            {
+                "name": "Instagram",
+                "content": "https://www.instagram.com/fvhschessclub/"
+            },
+            {
+                "name": "email",
+                "content": "fvchessclub@gmail.com"
+            }
+        ]
     }
 ]
