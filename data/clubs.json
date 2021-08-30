@@ -31,7 +31,7 @@
                 "position": "Publicist"
             },
             {
-                "name": "Ms. Bielefeld",
+                "name": "Lauren Bielefeld",
                 "position": "Advisor"
             }
         ],
@@ -47,6 +47,29 @@
             {
                 "name": "Email",
                 "content": "fvchessclub@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Illumination Foundation",
+        "about": "",
+        "url": "/if/",
+        "constitution": "https://docs.google.com/document/d/1XIacdxiMKzqDDg0Lq7i7cIis7WoncPePgynHXR-CFp0/edit",
+        "board": [
+            {
+                "name": "Sarah Le",
+                "position": "President"
+            },
+            {
+                "name": "Sheila Bunten",
+                "position": "Advisor"
+            }
+        ],
+        "contacts": [
+            {
+                "name": "Email",
+                "content": "iffvhs@gmail.com"
             }
         ]
     }
