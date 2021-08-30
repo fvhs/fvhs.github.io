@@ -2,7 +2,7 @@
     {
         "id": "0",
         "name": "FV Chess Club",
-        "about": "The FV Chess Club is an equal access club dedicated to promoting the game at FVHS and helping to improve members' skill level and appreciation for the game. \n The club meets every Friday at 4:00 pm on our club Discord server. The link to that server can be found on our contact page.",
+        "about": "The FV Chess Club is an equal access club dedicated to promoting the game at FVHS and helping to improve members' skill level and appreciation for it. We have tournaments with other chess clubs, simultaneous exhbitions, chess lessons for players at every level, and more! \n The club meets every Friday at 4:45 pm on our club Discord server.",
         "url": "/chess/",
         "constitution": "https://docs.google.com/document/d/1YdU0H7NO4_896veTGkcCczTRQUg2zSVSlDnASvYMxg8/edit?usp=sharing",
         "board": [
@@ -70,6 +70,49 @@
             {
                 "name": "Email",
                 "content": "iffvhs@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "FVHS Surfrider Foundation",
+        "about": "",
+        "url": "/surfriders/",
+        "constitution": "",
+        "board": [
+            {
+                "name": "Christy Haroun",
+                "position": "President"
+            },
+            {
+                "name": "Nicole Robson",
+                "position": "Vice President"
+            },
+            {
+                "name": "Evelyn Do",
+                "position": "Event Coordinator"
+            },
+            {
+                "name": "Natalie Hoang",
+                "position": "Publicist"
+            },
+            {
+                "name": "Isabella Galiteva",
+                "position": "Secretary"
+            }
+        ],
+        "contacts": [
+            {
+                "name": "Discord",
+                "content": "https://discord.com/invite/JfFHQpD"
+            },
+            {
+                "name": "Instagram",
+                "content": "https://www.instagram.com/surfriderfoundationfvhsclub/"
+            },
+            {
+                "name": "Email",
+                "content": "surfriderfoundationfvhsclub@gmail.com"
             }
         ]
     }
