@@ -113,6 +113,14 @@
             {
                 "name": "Email",
                 "content": "surfriderfoundationfvhsclub@gmail.com"
+            },
+            {
+                "name": "Member Sign-Up Form",
+                "content": "https://docs.google.com/forms/d/e/1FAIpQLScYnuz-CP-Lk08a5X0LPRcAOW14bUg0xpDPPWLw-NeRJriAdg/viewform"
+            },
+            {
+                "name": "Surfrider Data Portal",
+                "content": "https://docs.google.com/forms/d/e/1FAIpQLScU4KvM5PXaI75oBf82SbLKw883Ns4P_7abHOsftjzTArlwNQ/viewform"
             }
         ]
     }
