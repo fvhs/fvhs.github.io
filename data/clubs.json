@@ -2,9 +2,10 @@
     {
         "id": "0",
         "name": "FV Chess Club",
-        "about": "The FV Chess Club is an equal access club dedicated to promoting the game at FVHS and helping to improve members' skill level and appreciation for it. We have tournaments with other chess clubs, simultaneous exhbitions, chess lessons for players at every level, and more! \n The club meets every Friday at 4:45 pm on our club Discord server.",
+        "about": "The FV Chess Club is an equal access club dedicated to promoting the game at FVHS and helping to improve members' skill level and appreciation for it. We have tournaments with other chess clubs, simultaneous exhbitions, chess lessons for players at every level, and more!",
         "url": "/chess/",
         "constitution": "https://docs.google.com/document/d/1YdU0H7NO4_896veTGkcCczTRQUg2zSVSlDnASvYMxg8/edit?usp=sharing",
+        "meets": "Room 304B. Meetings every Friday @LUNCH",
         "board": [
             {
                 "name": "Caleb Kwok",
