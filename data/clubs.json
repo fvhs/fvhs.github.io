@@ -53,13 +53,29 @@
     {
         "id": "1",
         "name": "Illumination Foundation",
-        "about": "",
+        "about": "Illumination Foundation, other wise known as IF Club, works closely with the organization under the same name to provide support and services for the at-risk, underprivileged and homeless in Orange County. Our volunteers work and connect with children through Illumination Foundation’s education and support programs helping to create an uplifting environment for kids and their families. Over the years, IF Club has assisted in many Illumination events that volunteers are able to directly see the impact of their work in the community. \nOur events primarily include: seasonal carnivals where IF Club hosted a game booth and/or helped pass out food. Our game booths are entirely funded, designed and run by our Club members. We have monthly takeovers at the Children Resource Centers or Family Homes that the organization runs. At the takeovers we provide materials for the children to do crafts, play games, get tutored, or other fun and involving events. Another one of our main events are HQ drives or packages. Typically, IF Club will assist in sorting products and materials into gift bags at HQ for them to pass out. Other times we will help run a drive in our club and deliver them to HQ. These are among the many different variety of events IF Club has been involved with in the past and continue to run.",
         "url": "/if/",
         "constitution": "https://docs.google.com/document/d/1XIacdxiMKzqDDg0Lq7i7cIis7WoncPePgynHXR-CFp0/edit",
         "board": [
             {
                 "name": "Sarah Le",
                 "position": "President"
+            },
+            {
+                "name": "Albert Duong",
+                "position": "Vice President"
+            },
+            {
+                "name": "Jamie Tran",
+                "position": "Treasurer"
+            },
+            {
+                "name": "Emily Hoang",
+                "position": "Secretary"
+            },
+            {
+                "name": "Jasmine Nguyen",
+                "position": "Publicist"
             },
             {
                 "name": "Sheila Bunten",
@@ -70,6 +86,18 @@
             {
                 "name": "Email",
                 "content": "iffvhs@gmail.com"
+            },
+            {
+                "name": "Instagram",
+                "content": "https://www.instagram.com/fvhsifclub/"
+            },
+            {
+                "name": "Facebook",
+                "content": "https://www.facebook.com/groups/iffvhs/"
+            },
+            {
+                "name": "Linktree",
+                "content": "https://linktr.ee/fvhsifclub"
             }
         ]
     },
